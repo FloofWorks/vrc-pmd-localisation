@@ -1,179 +1,222 @@
 {
-    "TF_LessThan": {
-        "en": "<"
+    "name_item_apple": {
+        "en": "Apple",
+        "de": "Apfel",
+        "es": "Manzana",
+        "fr": "Pomme",
+        "it": "Mela",
+        "ja": "りんご",
+        "ko": "사과",
+        "ch": "苹果",
+        "ru": "Яблоко"
     },
-    "TF_GreaterThan": {
-        "en": ">"
+    "name_item_banana": {
+        "en": "Banana",
+        "de": "Banane",
+        "es": "Plátano",
+        "fr": "Banane",
+        "it": "Banana",
+        "ja": "バナナ",
+        "ko": "바나나",
+        "ch": "香蕉",
+        "ru": "Банан"
     },
-    "TF_Select": {
-        "en": "SELECT"
+    "name_item_timegear": {
+        "en": "Time Gear",
+        "de": "Zahnrad der Zeit",
+        "es": "Engranaje del Tiempo",
+        "fr": "Engrenage Temporel",
+        "it": "Ingranaggio Temporale",
+        "ja": "タイムギア",
+        "ko": "시간 톱니바퀴",
+        "ch": "时之齿轮",
+        "ru": "Шестерёнка Времени"
     },
-    "TF_AutoAssign": {
-        "en": "&1 AUTO ASSIGN"
+    "info_status_loading": {
+        "en": "Loading...",
+        "de": "Lädt...",
+        "es": "Cargando...",
+        "fr": "Chargement...",
+        "it": "Caricamento...",
+        "ja": "読み込み中...",
+        "ko": "불러오는 중...",
+        "ch": "加载中...",
+        "ru": "Загрузка..."
     },
-    "TF_BlueTeam": {
-        "en": "&3 BLU"
+    "info_status_saving": {
+        "en": "Saving...",
+        "de": "Speichert...",
+        "es": "Guardando...",
+        "fr": "Enregistrement...",
+        "it": "Salvataggio...",
+        "ja": "保存中...",
+        "ko": "저장 중...",
+        "ch": "保存中...",
+        "ru": "Сохранение..."
     },
-    "TF_RedTeam": {
-        "en": "&4 RED"
+    "ui_button_start": {
+        "en": "Start",
+        "de": "Starten",
+        "es": "Iniciar",
+        "fr": "Démarrer",
+        "it": "Avvia",
+        "ja": "スタート",
+        "ko": "시작",
+        "ch": "开始",
+        "ru": "Начать"
     },
-    "TF_Observer": {
-        "en": "OBSERVER"
+    "ui_button_exit": {
+        "en": "Exit",
+        "de": "Beenden",
+        "es": "Salir",
+        "fr": "Quitter",
+        "it": "Esci",
+        "ja": "終了",
+        "ko": "종료",
+        "ch": "退出",
+        "ru": "Выйти"
     },
-    "TF_Random": {
-        "en": "RANDOM"
+    "ui_button_save": {
+        "en": "Save",
+        "de": "Speichern",
+        "es": "Guardar",
+        "fr": "Sauvegarder",
+        "it": "Salva",
+        "ja": "セーブ",
+        "ko": "저장",
+        "ch": "保存",
+        "ru": "Сохранить"
     },
-    "TF_BlueTeam_Name": {
-        "en": "BLU"
+    "ui_button_cancel": {
+        "en": "Cancel",
+        "de": "Abbrechen",
+        "es": "Cancelar",
+        "fr": "Annuler",
+        "it": "Annulla",
+        "ja": "キャンセル",
+        "ko": "취소",
+        "ch": "取消",
+        "ru": "Отмена"
     },
-    "TF_RedTeam_Name": {
-        "en": "RED"
+    "ui_message_welcome": {
+        "en": "Welcome to our world!",
+        "de": "Willkommen in unserer Welt!",
+        "es": "¡Bienvenido a nuestro mundo!",
+        "fr": "Bienvenue dans notre monde!",
+        "it": "Benvenuto nel nostro mondo!",
+        "ja": "私たちの世界へようこそ！",
+        "ko": "우리의 세계에 오신 것을 환영합니다!",
+        "ch": "欢迎来到我们的世界！",
+        "ru": "Добро пожаловать в наш мир!"
     },
-    "TF_Defenders": {
-        "en": "DEFENDERS"
+    "ui_message_farewell": {
+        "en": "Thank you for playing!",
+        "de": "Danke fürs Spielen!",
+        "es": "¡Gracias por jugar!",
+        "fr": "Merci d'avoir joué!",
+        "it": "Grazie per aver giocato!",
+        "ja": "遊んでくれてありがとう！",
+        "ko": "플레이해 주셔서 감사합니다!",
+        "ch": "感谢您的游玩！",
+        "ru": "Спасибо за игру!"
     },
-    "TF_Spectators": {
-        "en": "SPECTATORS"
+    "npc_greeting_guard": {
+        "en": "Halt! Who goes there?",
+        "de": "Halt! Wer da?",
+        "es": "¡Alto! ¿Quién va?",
+        "fr": "Halte! Qui va là?",
+        "it": "Fermo! Chi va là?",
+        "ja": "止まれ！ そこにいるのは誰だ？",
+        "ko": "멈춰라! 거기 누구냐?",
+        "ch": "站住！谁在那里？",
+        "ru": "Стой! Кто идёт?"
     },
-    "TF_Team_PartyLeader": {
-        "en": "Team %s"
+    "npc_greeting_villager": {
+        "en": "Hello, stranger! Care for a chat?",
+        "de": "Hallo, Fremder! Hast du Zeit für ein Gespräch?",
+        "es": "¡Hola, forastero! ¿Te apetece charlar?",
+        "fr": "Bonjour, étranger! Envie de discuter?",
+        "it": "Ciao, forestiero! Ti va di fare due chiacchiere?",
+        "ja": "こんにちは、初めまして！少しお話でもいかがですか？",
+        "ko": "안녕하세요, 낯선 분! 대화 좀 나눠볼래요?",
+        "ch": "你好，陌生人！要聊聊吗？",
+        "ru": "Привет, незнакомец! Хочешь поболтать?"
     },
-    "TF_Winner": {
-        "en": "WINNER"
+    "dialog_quest_accept": {
+        "en": "Will you help me gather 10 apples?",
+        "de": "Wirst du mir helfen, 10 Äpfel zu sammeln?",
+        "es": "¿Me ayudarías a recolectar 10 manzanas?",
+        "fr": "Voudrais-tu m'aider à rassembler 10 pommes?",
+        "it": "Mi aiuterai a raccogliere 10 mele?",
+        "ja": "りんごを10個集めるのを手伝ってくれませんか？",
+        "ko": "사과 10개를 모으는 것을 도와줄래요?",
+        "ch": "你能帮我收集10个苹果吗？",
+        "ru": "Поможешь мне собрать 10 яблок?"
     },
-    "TF_Winners": {
-        "en": "WINNERS"
+    "dialog_quest_complete": {
+        "en": "Thank you! This will help the village greatly!",
+        "de": "Danke! Das wird dem Dorf sehr helfen!",
+        "es": "¡Gracias! ¡Esto ayudará mucho al pueblo!",
+        "fr": "Merci! Cela aidera beaucoup le village!",
+        "it": "Grazie! Questo sarà di grande aiuto per il villaggio!",
+        "ja": "ありがとうございます！ 村のみんなが本当に助かります！",
+        "ko": "고마워요! 이건 마을에 큰 도움이 될 거예요!",
+        "ch": "谢谢你！这对村子帮助很大！",
+        "ru": "Спасибо! Это очень поможет деревне!"
     },
-    "TF_Scout": {
-        "en": "SCOUT"
+    "quest_description_lost_ring": {
+        "en": "A villager has lost a precious ring near the river. Find it and return it for a reward.",
+        "de": "Ein Dorfbewohner hat einen wertvollen Ring in der Nähe des Flusses verloren. Finde ihn und bringe ihn zurück, um eine Belohnung zu erhalten.",
+        "es": "Un aldeano ha perdido un anillo precioso cerca del río. Encuéntralo y devuélvelo para recibir una recompensa.",
+        "fr": "Un villageois a perdu une bague précieuse près de la rivière. Trouve-la et ramène-la pour recevoir une récompense.",
+        "it": "Un abitante del villaggio ha perso un anello prezioso vicino al fiume. Trovalo e restituiscilo per una ricompensa.",
+        "ja": "村人が川の近くで大事な指輪を失くしてしまいました。見つけて返してあげてください。",
+        "ko": "마을 사람이 강 근처에서 귀중한 반지를 잃어버렸습니다. 찾아서 보상받으세요.",
+        "ch": "一位村民在河边丢失了一个珍贵的戒指。找到它并归还即可获得奖励。",
+        "ru": "Один из жителей деревни потерял драгоценное кольцо у реки. Найди его и верни за награду."
     },
-    "TF_Sniper": {
-        "en": "SNIPER"
+    "gui_inventory_title": {
+        "en": "Inventory",
+        "de": "Inventar",
+        "es": "Inventario",
+        "fr": "Inventaire",
+        "it": "Inventario",
+        "ja": "インベントリ",
+        "ko": "인벤토리",
+        "ch": "物品栏",
+        "ru": "Инвентарь"
     },
-    "TF_Soldier": {
-        "en": "SOLDIER"
+    "gui_settings_title": {
+        "en": "Settings",
+        "de": "Einstellungen",
+        "es": "Ajustes",
+        "fr": "Paramètres",
+        "it": "Impostazioni",
+        "ja": "設定",
+        "ko": "설정",
+        "ch": "设置",
+        "ru": "Настройки"
     },
-    "TF_Demoman": {
-        "en": "DEMOMAN"
+    "gui_map_label": {
+        "en": "World Map",
+        "de": "Weltkarte",
+        "es": "Mapa del Mundo",
+        "fr": "Carte du Monde",
+        "it": "Mappa del Mondo",
+        "ja": "ワールドマップ",
+        "ko": "월드 맵",
+        "ch": "世界地图",
+        "ru": "Карта мира"
     },
-    "TF_Medic": {
-        "en": "MEDIC"
-    },
-    "TF_HWGuy": {
-        "en": "HEAVY"
-    },
-    "TF_Pyro": {
-        "en": "PYRO"
-    },
-    "TF_Spy": {
-        "en": "SPY"
-    },
-    "TF_Engineer": {
-        "en": "ENGINEER"
-    },
-    "TF_Class_Name_Undefined": {
-        "en": " "
-    },
-    "TF_Class_Name_Scout": {
-        "en": "Scout"
-    },
-    "TF_Class_Name_Sniper": {
-        "en": "Sniper"
-    },
-    "TF_Class_Name_Soldier": {
-        "en": "Soldier"
-    },
-    "TF_Class_Name_Demoman": {
-        "en": "Demoman"
-    },
-    "TF_Class_Name_Medic": {
-        "en": "Medic"
-    },
-    "TF_Class_Name_HWGuy": {
-        "en": "Heavy"
-    },
-    "TF_Class_Name_Pyro": {
-        "en": "Pyro"
-    },
-    "TF_Class_Name_Spy": {
-        "en": "Spy"
-    },
-    "TF_Class_Name_Engineer": {
-        "en": "Engineer"
-    },
-    "game_player_joined_game": {
-        "en": "%s1 has joined the game"
-    },
-    "game_player_left_game": {
-        "en": "%s1 left the game (%s2)"
-    },
-    "game_player_joined_team": {
-        "en": "%s1 joined team %s2"
-    },
-    "game_player_changed_name": {
-        "en": "%s1 changed name to %s2"
-    },
-    "TF_ScoreBoard_Blue": {
-        "en": "BLU"
-    },
-    "TF_ScoreBoard_Red": {
-        "en": "RED"
-    },
-    "TF_ScoreBoard_Player": {
-        "en": "%s1 player"
-    },
-    "TF_ScoreBoard_Players": {
-        "en": "%s1 players"
-    },
-    "TF_ScoreBoard_DEAD": {
-        "en": "DEAD"
-    },
-    "TF_Scoreboard_Name": {
-        "en": "Name"
-    },
-    "TF_Scoreboard_Score": {
-        "en": "Score"
-    },
-    "TF_Scoreboard_Ping": {
-        "en": "Ping"
-    },
-    "TF_Scoreboard_Bot": {
-        "en": "BOT"
-    },
-    "TF_ScoreBoard_Point": {
-        "en": "%s1 point"
-    },
-    "TF_ScoreBoard_Points": {
-        "en": "%s1 points"
-    },
-    "TF_ScoreBoard_KillsLabel": {
-        "en": "Kills:"
-    },
-    "TF_ScoreBoard_DeathsLabel": {
-        "en": "Deaths:"
-    },
-    "TF_ScoreBoard_AssistsLabel": {
-        "en": "Assists:"
-    },
-    "TF_ScoreBoard_DestructionLabel": {
-        "en": "Destruction:"
-    },
-    "TF_ScoreBoard_CapturesLabel": {
-        "en": "Captures:"
-    },
-    "TF_ScoreBoard_DefensesLabel": {
-        "en": "Defenses:"
-    },
-    "TF_ScoreBoard_DominationLabel": {
-        "en": "Domination:"
-    },
-    "TF_ScoreBoard_RevengeLabel": {
-        "en": "Revenge:"
-    },
-    "TF_ScoreBoard_HealingLabel": {
-        "en": "Healing:"
-    },
-    "TF_ScoreBoard_InvulnLabel": {
-        "en": "Invulns:"
+    "system_notification_error": {
+        "en": "An error has occurred. Please try again later.",
+        "de": "Ein Fehler ist aufgetreten. Bitte versuche es später erneut.",
+        "es": "Ha ocurrido un error. Por favor, inténtalo de nuevo más tarde.",
+        "fr": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+        "it": "Si è verificato un errore. Per favore riprova più tardi.",
+        "ja": "エラーが発生しました。後でもう一度お試しください。",
+        "ko": "오류가 발생했습니다. 나중에 다시 시도해 주세요.",
+        "ch": "发生错误。请稍后再试。",
+        "ru": "Произошла ошибка. Пожалуйста, попробуйте позже."
     }
 }
