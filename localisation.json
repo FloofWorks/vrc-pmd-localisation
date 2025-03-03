@@ -1,46 +1,112 @@
 {
-    "name_item_apple": {
-        "en": "Apple",
-        "de": "Apfel",
-        "es": "Manzana",
-        "fr": "Pomme",
-        "it": "Mela",
-        "ja": "りんご",
-        "ko": "사과",
-        "ch": "苹果",
-        "ru": "Яблоко"
+    "ui_menu_start": {
+        "en": "Start Game",
+        "de": "Spiel Starten",
+        "es": "Iniciar Juego",
+        "fr": "Commencer le Jeu",
+        "it": "Inizia Gioco",
+        "ja": "ゲームを始める",
+        "ko": "게임 시작",
+        "ch": "开始游戏",
+        "ru": "Начать игру"
     },
-    "name_item_banana": {
-        "en": "Banana",
-        "de": "Banane",
-        "es": "Plátano",
-        "fr": "Banane",
-        "it": "Banana",
-        "ja": "バナナ",
-        "ko": "바나나",
-        "ch": "香蕉",
-        "ru": "Банан"
+    "ui_menu_options": {
+        "en": "Options",
+        "de": "Optionen",
+        "es": "Opciones",
+        "fr": "Options",
+        "it": "Opzioni",
+        "ja": "オプション",
+        "ko": "옵션",
+        "ch": "选项",
+        "ru": "Настройки"
     },
-    "name_item_timegear": {
-        "en": "Time Gear",
-        "de": "Zahnrad der Zeit",
-        "es": "",
-        "fr": "",
-        "it": "",
-        "ja": "",
-        "ko": "",
-        "ch": "",
-        "ru": ""
+    "ui_menu_exit": {
+        "en": "Exit Game",
+        "de": "Spiel Beenden",
+        "es": "Salir del Juego",
+        "fr": "Quitter le Jeu",
+        "it": "Esci dal Gioco",
+        "ja": "ゲームを終了する",
+        "ko": "게임 종료",
+        "ch": "退出游戏",
+        "ru": "Выйти из игры"
     },
-    "info_status_loading": {
-        "en": "Loading...",
-        "de": "Lädt...",
-        "es": "",
-        "fr": "",
-        "it": "",
-        "ja": "",
-        "ko": "",
-        "ch": "",
-        "ru": ""
+    "npc_greeting_default": {
+        "en": "Hello, traveler! Welcome to our village.",
+        "de": "Hallo, Reisender! Willkommen in unserem Dorf.",
+        "es": "¡Hola, viajero! Bienvenido a nuestro pueblo.",
+        "fr": "Bonjour, voyageur! Bienvenue dans notre village.",
+        "it": "Ciao, viaggiatore! Benvenuto nel nostro villaggio.",
+        "ja": "こんにちは、旅人さん！私たちの村へようこそ。",
+        "ko": "안녕하세요, 여행자님! 우리 마을에 오신 것을 환영합니다.",
+        "ch": "你好，旅行者！欢迎来到我们的村庄。",
+        "ru": "Привет, путешественник! Добро пожаловать в нашу деревню."
+    },
+    "npc_quest_offer": {
+        "en": "Could you help me find my lost amulet?",
+        "de": "Könntest du mir helfen, mein verlorenes Amulett zu finden?",
+        "es": "¿Podrías ayudarme a encontrar mi amuleto perdido?",
+        "fr": "Pourriez-vous m’aider à retrouver mon amulette perdue?",
+        "it": "Potresti aiutarmi a trovare il mio amuleto smarrito?",
+        "ja": "私の失くしたお守りを探すのを手伝ってくれませんか？",
+        "ko": "내 잃어버린 부적을 찾아줄 수 있나요?",
+        "ch": "你能帮我找到我丢失的护身符吗？",
+        "ru": "Не могли бы вы помочь мне найти мой потерянный амулет?"
+    },
+    "status_info_saving": {
+        "en": "Saving...",
+        "de": "Speichern...",
+        "es": "Guardando...",
+        "fr": "Enregistrement...",
+        "it": "Salvataggio in corso...",
+        "ja": "保存中...",
+        "ko": "저장 중...",
+        "ch": "正在保存...",
+        "ru": "Сохранение..."
+    },
+    "error_connection_lost": {
+        "en": "Connection lost. Please try again.",
+        "de": "Verbindung verloren. Bitte versuche es erneut.",
+        "es": "Conexión perdida. Inténtalo de nuevo.",
+        "fr": "Connexion perdue. Veuillez réessayer.",
+        "it": "Connessione persa. Riprova.",
+        "ja": "接続が失われました。再試行してください。",
+        "ko": "연결이 끊어졌습니다. 다시 시도해주세요.",
+        "ch": "连接丢失。请重试。",
+        "ru": "Соединение потеряно. Попробуйте снова."
+    },
+    "name_item_health_potion": {
+        "en": "Health Potion",
+        "de": "Heiltrank",
+        "es": "Poción de Salud",
+        "fr": "Potion de Santé",
+        "it": "Pozione di Salute",
+        "ja": "回復ポーション",
+        "ko": "체력 물약",
+        "ch": "生命药水",
+        "ru": "Зелье здоровья"
+    },
+    "name_item_mana_potion": {
+        "en": "Mana Potion",
+        "de": "Manatrank",
+        "es": "Poción de Maná",
+        "fr": "Potion de Mana",
+        "it": "Pozione di Mana",
+        "ja": "マナポーション",
+        "ko": "마나 물약",
+        "ch": "魔法药水",
+        "ru": "Зелье маны"
+    },
+    "system_message_welcome": {
+        "en": "Welcome to the adventure!",
+        "de": "Willkommen zum Abenteuer!",
+        "es": "¡Bienvenido a la aventura!",
+        "fr": "Bienvenue dans l’aventure!",
+        "it": "Benvenuto nell’avventura!",
+        "ja": "冒険へようこそ！",
+        "ko": "모험에 오신 것을 환영합니다!",
+        "ch": "欢迎来到冒险世界！",
+        "ru": "Добро пожаловать в приключение!"
     }
 }
