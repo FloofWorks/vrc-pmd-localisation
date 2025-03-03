@@ -1,112 +1,222 @@
 {
-    "ui_menu_start": {
-        "en": "Start Game",
-        "de": "Spiel Starten",
-        "es": "Iniciar Juego",
-        "fr": "Commencer le Jeu",
-        "it": "Inizia Gioco",
-        "ja": "ゲームを始める",
-        "ko": "게임 시작",
-        "ch": "开始游戏",
-        "ru": "Начать игру"
+    "name_item_apple": {
+        "en": "Apple",
+        "de": "Apfel",
+        "es": "Manzana",
+        "fr": "Pomme",
+        "it": "Mela",
+        "ja": "りんご",
+        "ko": "사과",
+        "ch": "苹果",
+        "ru": "Яблоко"
     },
-    "ui_menu_options": {
-        "en": "Options",
-        "de": "Optionen",
-        "es": "Opciones",
-        "fr": "Options",
-        "it": "Opzioni",
-        "ja": "オプション",
-        "ko": "옵션",
-        "ch": "选项",
-        "ru": "Настройки"
+    "name_item_banana": {
+        "en": "Banana",
+        "de": "Banane",
+        "es": "Plátano",
+        "fr": "Banane",
+        "it": "Banana",
+        "ja": "バナナ",
+        "ko": "바나나",
+        "ch": "香蕉",
+        "ru": "Банан"
     },
-    "ui_menu_exit": {
-        "en": "Exit Game",
-        "de": "Spiel Beenden",
-        "es": "Salir del Juego",
-        "fr": "Quitter le Jeu",
-        "it": "Esci dal Gioco",
-        "ja": "ゲームを終了する",
-        "ko": "게임 종료",
-        "ch": "退出游戏",
-        "ru": "Выйти из игры"
+    "name_item_timegear": {
+        "en": "Time Gear",
+        "de": "Zahnrad der Zeit",
+        "es": "Engranaje del Tiempo",
+        "fr": "Engrenage Temporel",
+        "it": "Ingranaggio Temporale",
+        "ja": "タイムギア",
+        "ko": "시간 톱니바퀴",
+        "ch": "时之齿轮",
+        "ru": "Шестерёнка Времени"
     },
-    "npc_greeting_default": {
-        "en": "Hello, traveler! Welcome to our village.",
-        "de": "Hallo, Reisender! Willkommen in unserem Dorf.",
-        "es": "¡Hola, viajero! Bienvenido a nuestro pueblo.",
-        "fr": "Bonjour, voyageur! Bienvenue dans notre village.",
-        "it": "Ciao, viaggiatore! Benvenuto nel nostro villaggio.",
-        "ja": "こんにちは、旅人さん！私たちの村へようこそ。",
-        "ko": "안녕하세요, 여행자님! 우리 마을에 오신 것을 환영합니다.",
-        "ch": "你好，旅行者！欢迎来到我们的村庄。",
-        "ru": "Привет, путешественник! Добро пожаловать в нашу деревню."
+    "info_status_loading": {
+        "en": "Loading...",
+        "de": "Lädt...",
+        "es": "Cargando...",
+        "fr": "Chargement...",
+        "it": "Caricamento...",
+        "ja": "読み込み中...",
+        "ko": "불러오는 중...",
+        "ch": "加载中...",
+        "ru": "Загрузка..."
     },
-    "npc_quest_offer": {
-        "en": "Could you help me find my lost amulet?",
-        "de": "Könntest du mir helfen, mein verlorenes Amulett zu finden?",
-        "es": "¿Podrías ayudarme a encontrar mi amuleto perdido?",
-        "fr": "Pourriez-vous m’aider à retrouver mon amulette perdue?",
-        "it": "Potresti aiutarmi a trovare il mio amuleto smarrito?",
-        "ja": "私の失くしたお守りを探すのを手伝ってくれませんか？",
-        "ko": "내 잃어버린 부적을 찾아줄 수 있나요?",
-        "ch": "你能帮我找到我丢失的护身符吗？",
-        "ru": "Не могли бы вы помочь мне найти мой потерянный амулет?"
-    },
-    "status_info_saving": {
+    "info_status_saving": {
         "en": "Saving...",
-        "de": "Speichern...",
+        "de": "Speichert...",
         "es": "Guardando...",
         "fr": "Enregistrement...",
-        "it": "Salvataggio in corso...",
+        "it": "Salvataggio...",
         "ja": "保存中...",
         "ko": "저장 중...",
-        "ch": "正在保存...",
+        "ch": "保存中...",
         "ru": "Сохранение..."
     },
-    "error_connection_lost": {
-        "en": "Connection lost. Please try again.",
-        "de": "Verbindung verloren. Bitte versuche es erneut.",
-        "es": "Conexión perdida. Inténtalo de nuevo.",
-        "fr": "Connexion perdue. Veuillez réessayer.",
-        "it": "Connessione persa. Riprova.",
-        "ja": "接続が失われました。再試行してください。",
-        "ko": "연결이 끊어졌습니다. 다시 시도해주세요.",
-        "ch": "连接丢失。请重试。",
-        "ru": "Соединение потеряно. Попробуйте снова."
+    "ui_button_start": {
+        "en": "Start",
+        "de": "Starten",
+        "es": "Iniciar",
+        "fr": "Démarrer",
+        "it": "Avvia",
+        "ja": "スタート",
+        "ko": "시작",
+        "ch": "开始",
+        "ru": "Начать"
     },
-    "name_item_health_potion": {
-        "en": "Health Potion",
-        "de": "Heiltrank",
-        "es": "Poción de Salud",
-        "fr": "Potion de Santé",
-        "it": "Pozione di Salute",
-        "ja": "回復ポーション",
-        "ko": "체력 물약",
-        "ch": "生命药水",
-        "ru": "Зелье здоровья"
+    "ui_button_exit": {
+        "en": "Exit",
+        "de": "Beenden",
+        "es": "Salir",
+        "fr": "Quitter",
+        "it": "Esci",
+        "ja": "終了",
+        "ko": "종료",
+        "ch": "退出",
+        "ru": "Выйти"
     },
-    "name_item_mana_potion": {
-        "en": "Mana Potion",
-        "de": "Manatrank",
-        "es": "Poción de Maná",
-        "fr": "Potion de Mana",
-        "it": "Pozione di Mana",
-        "ja": "マナポーション",
-        "ko": "마나 물약",
-        "ch": "魔法药水",
-        "ru": "Зелье маны"
+    "ui_button_save": {
+        "en": "Save",
+        "de": "Speichern",
+        "es": "Guardar",
+        "fr": "Sauvegarder",
+        "it": "Salva",
+        "ja": "セーブ",
+        "ko": "저장",
+        "ch": "保存",
+        "ru": "Сохранить"
     },
-    "system_message_welcome": {
-        "en": "Welcome to the adventure!",
-        "de": "Willkommen zum Abenteuer!",
-        "es": "¡Bienvenido a la aventura!",
-        "fr": "Bienvenue dans l’aventure!",
-        "it": "Benvenuto nell’avventura!",
-        "ja": "冒険へようこそ！",
-        "ko": "모험에 오신 것을 환영합니다!",
-        "ch": "欢迎来到冒险世界！",
-        "ru": "Добро пожаловать в приключение!"
+    "ui_button_cancel": {
+        "en": "Cancel",
+        "de": "Abbrechen",
+        "es": "Cancelar",
+        "fr": "Annuler",
+        "it": "Annulla",
+        "ja": "キャンセル",
+        "ko": "취소",
+        "ch": "取消",
+        "ru": "Отмена"
+    },
+    "ui_message_welcome": {
+        "en": "Welcome to our world!",
+        "de": "Willkommen in unserer Welt!",
+        "es": "¡Bienvenido a nuestro mundo!",
+        "fr": "Bienvenue dans notre monde!",
+        "it": "Benvenuto nel nostro mondo!",
+        "ja": "私たちの世界へようこそ！",
+        "ko": "우리의 세계에 오신 것을 환영합니다!",
+        "ch": "欢迎来到我们的世界！",
+        "ru": "Добро пожаловать в наш мир!"
+    },
+    "ui_message_farewell": {
+        "en": "Thank you for playing!",
+        "de": "Danke fürs Spielen!",
+        "es": "¡Gracias por jugar!",
+        "fr": "Merci d'avoir joué!",
+        "it": "Grazie per aver giocato!",
+        "ja": "遊んでくれてありがとう！",
+        "ko": "플레이해 주셔서 감사합니다!",
+        "ch": "感谢您的游玩！",
+        "ru": "Спасибо за игру!"
+    },
+    "npc_greeting_guard": {
+        "en": "Halt! Who goes there?",
+        "de": "Halt! Wer da?",
+        "es": "¡Alto! ¿Quién va?",
+        "fr": "Halte! Qui va là?",
+        "it": "Fermo! Chi va là?",
+        "ja": "止まれ！ そこにいるのは誰だ？",
+        "ko": "멈춰라! 거기 누구냐?",
+        "ch": "站住！谁在那里？",
+        "ru": "Стой! Кто идёт?"
+    },
+    "npc_greeting_villager": {
+        "en": "Hello, stranger! Care for a chat?",
+        "de": "Hallo, Fremder! Hast du Zeit für ein Gespräch?",
+        "es": "¡Hola, forastero! ¿Te apetece charlar?",
+        "fr": "Bonjour, étranger! Envie de discuter?",
+        "it": "Ciao, forestiero! Ti va di fare due chiacchiere?",
+        "ja": "こんにちは、初めまして！少しお話でもいかがですか？",
+        "ko": "안녕하세요, 낯선 분! 대화 좀 나눠볼래요?",
+        "ch": "你好，陌生人！要聊聊吗？",
+        "ru": "Привет, незнакомец! Хочешь поболтать?"
+    },
+    "dialog_quest_accept": {
+        "en": "Will you help me gather 10 apples?",
+        "de": "Wirst du mir helfen, 10 Äpfel zu sammeln?",
+        "es": "¿Me ayudarías a recolectar 10 manzanas?",
+        "fr": "Voudrais-tu m'aider à rassembler 10 pommes?",
+        "it": "Mi aiuterai a raccogliere 10 mele?",
+        "ja": "りんごを10個集めるのを手伝ってくれませんか？",
+        "ko": "사과 10개를 모으는 것을 도와줄래요?",
+        "ch": "你能帮我收集10个苹果吗？",
+        "ru": "Поможешь мне собрать 10 яблок?"
+    },
+    "dialog_quest_complete": {
+        "en": "Thank you! This will help the village greatly!",
+        "de": "Danke! Das wird dem Dorf sehr helfen!",
+        "es": "¡Gracias! ¡Esto ayudará mucho al pueblo!",
+        "fr": "Merci! Cela aidera beaucoup le village!",
+        "it": "Grazie! Questo sarà di grande aiuto per il villaggio!",
+        "ja": "ありがとうございます！ 村のみんなが本当に助かります！",
+        "ko": "고마워요! 이건 마을에 큰 도움이 될 거예요!",
+        "ch": "谢谢你！这对村子帮助很大！",
+        "ru": "Спасибо! Это очень поможет деревне!"
+    },
+    "quest_description_lost_ring": {
+        "en": "A villager has lost a precious ring near the river. Find it and return it for a reward.",
+        "de": "Ein Dorfbewohner hat einen wertvollen Ring in der Nähe des Flusses verloren. Finde ihn und bringe ihn zurück, um eine Belohnung zu erhalten.",
+        "es": "Un aldeano ha perdido un anillo precioso cerca del río. Encuéntralo y devuélvelo para recibir una recompensa.",
+        "fr": "Un villageois a perdu une bague précieuse près de la rivière. Trouve-la et ramène-la pour recevoir une récompense.",
+        "it": "Un abitante del villaggio ha perso un anello prezioso vicino al fiume. Trovalo e restituiscilo per una ricompensa.",
+        "ja": "村人が川の近くで大事な指輪を失くしてしまいました。見つけて返してあげてください。",
+        "ko": "마을 사람이 강 근처에서 귀중한 반지를 잃어버렸습니다. 찾아서 보상받으세요.",
+        "ch": "一位村民在河边丢失了一个珍贵的戒指。找到它并归还即可获得奖励。",
+        "ru": "Один из жителей деревни потерял драгоценное кольцо у реки. Найди его и верни за награду."
+    },
+    "gui_inventory_title": {
+        "en": "Inventory",
+        "de": "Inventar",
+        "es": "Inventario",
+        "fr": "Inventaire",
+        "it": "Inventario",
+        "ja": "インベントリ",
+        "ko": "인벤토리",
+        "ch": "物品栏",
+        "ru": "Инвентарь"
+    },
+    "gui_settings_title": {
+        "en": "Settings",
+        "de": "Einstellungen",
+        "es": "Ajustes",
+        "fr": "Paramètres",
+        "it": "Impostazioni",
+        "ja": "設定",
+        "ko": "설정",
+        "ch": "设置",
+        "ru": "Настройки"
+    },
+    "gui_map_label": {
+        "en": "World Map",
+        "de": "Weltkarte",
+        "es": "Mapa del Mundo",
+        "fr": "Carte du Monde",
+        "it": "Mappa del Mondo",
+        "ja": "ワールドマップ",
+        "ko": "월드 맵",
+        "ch": "世界地图",
+        "ru": "Карта мира"
+    },
+    "system_notification_error": {
+        "en": "An error has occurred. Please try again later.",
+        "de": "Ein Fehler ist aufgetreten. Bitte versuche es später erneut.",
+        "es": "Ha ocurrido un error. Por favor, inténtalo de nuevo más tarde.",
+        "fr": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+        "it": "Si è verificato un errore. Per favore riprova più tardi.",
+        "ja": "エラーが発生しました。後でもう一度お試しください。",
+        "ko": "오류가 발생했습니다. 나중에 다시 시도해 주세요.",
+        "ch": "发生错误。请稍后再试。",
+        "ru": "Произошла ошибка. Пожалуйста, попробуйте позже."
     }
 }
