@@ -1,0 +1,24 @@
+{
+    "apple_display_name": {
+        "en": "Apple",
+        "de": "Apfel",
+        "es": "Manzana",
+        "fr": "Pomme",
+        "it": "Mela",
+        "ja": "りんご",
+        "ko": "사과",
+        "ch": "苹果",
+        "ru": "Яблоко"
+    },
+    "banana_display_name": {
+        "en": "Banana",
+        "de": "Banane",
+        "es": "Plátano",
+        "fr": "Banane",
+        "it": "Banana",
+        "ja": "バナナ",
+        "ko": "바나나",
+        "ch": "香蕉",
+        "ru": "Банан"
+    }
+}
