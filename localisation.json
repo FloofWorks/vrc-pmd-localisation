@@ -1,5 +1,5 @@
 {
-    "apple_display_name": {
+    "name_item_apple": {
         "en": "Apple",
         "de": "Apfel",
         "es": "Manzana",
@@ -10,7 +10,18 @@
         "ch": "苹果",
         "ru": "Яблоко"
     },
-    "banana_display_name": {
+    "name_item_banana": {
+        "en": "Banana",
+        "de": "Banane",
+        "es": "Plátano",
+        "fr": "Banane",
+        "it": "Banana",
+        "ja": "バナナ",
+        "ko": "바나나",
+        "ch": "香蕉",
+        "ru": "Банан"
+    },
+    "name_item_timegear": {
         "en": "Banana",
         "de": "Banane",
         "es": "Plátano",
