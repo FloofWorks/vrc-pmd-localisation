@@ -1,36 +1,36 @@
 {
     "ui_pipeline_info_importing_saves": {
         "en": "Reading Adventure Logs...",
-        "de": "Apfel",
-        "es": "Manzana",
-        "fr": "Pomme",
-        "it": "Mela",
-        "ja": "りんご",
-        "ko": "사과",
-        "ch": "苹果",
-        "ru": "Яблоко"
+        "de": "Abenteuer werden gelesen...",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
     },
     "ui_pipeline_info_getting_saves": {
-        "en": "Reading Adventure Logs...",
-        "de": "Apfel",
-        "es": "Manzana",
-        "fr": "Pomme",
-        "it": "Mela",
-        "ja": "りんご",
-        "ko": "사과",
-        "ch": "苹果",
-        "ru": "Яблоко"
+        "en": "Gathering Adventure Logs...",
+        "de": "Abenteuer werden gesammelt...",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
     },
     "ui_pipeline_info_loading_items": {
         "en": "Stealing items from Kecleon...",
-        "de": "Apfel",
-        "es": "Manzana",
-        "fr": "Pomme",
-        "it": "Mela",
-        "ja": "りんご",
-        "ko": "사과",
-        "ch": "苹果",
-        "ru": "Яблоко"
+        "de": "Gegenstände werden von Kecleon geklaut...",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
     },
     "name_item_apple": {
         "en": "Apple",
