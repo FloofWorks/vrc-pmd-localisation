@@ -1,4 +1,48 @@
 {
+    "ui_pipeline_info_loading_pipeline": {
+        "en": "Apple",
+        "de": "Apfel",
+        "es": "Manzana",
+        "fr": "Pomme",
+        "it": "Mela",
+        "ja": "りんご",
+        "ko": "사과",
+        "ch": "苹果",
+        "ru": "Яблоко"
+    },
+    "ui_pipeline_info_importing_saves": {
+        "en": "Apple",
+        "de": "Apfel",
+        "es": "Manzana",
+        "fr": "Pomme",
+        "it": "Mela",
+        "ja": "りんご",
+        "ko": "사과",
+        "ch": "苹果",
+        "ru": "Яблоко"
+    },
+    "ui_pipeline_info_getting_saves": {
+        "en": "Apple",
+        "de": "Apfel",
+        "es": "Manzana",
+        "fr": "Pomme",
+        "it": "Mela",
+        "ja": "りんご",
+        "ko": "사과",
+        "ch": "苹果",
+        "ru": "Яблоко"
+    },
+    "ui_pipeline_info_loading_items": {
+        "en": "Apple",
+        "de": "Apfel",
+        "es": "Manzana",
+        "fr": "Pomme",
+        "it": "Mela",
+        "ja": "りんご",
+        "ko": "사과",
+        "ch": "苹果",
+        "ru": "Яблоко"
+    },
     "name_item_apple": {
         "en": "Apple",
         "de": "Apfel",
