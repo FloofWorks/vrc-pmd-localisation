@@ -1,4 +1,15 @@
 {
+    "ui_info_done": {
+        "en": "Done!",
+        "de": "Fertig!",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_pipeline_info_importing_saves": {
         "en": "Reading Adventure Logs...",
         "de": "Abenteuer werden gelesen...",
