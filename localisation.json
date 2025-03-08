@@ -1,4 +1,26 @@
 {
+    "ui_intro_button_i_agree": {
+        "en": "I Agree!",
+        "de": "Ich Stimme zu!",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_intro_info_eula": {
+        "en": "EULA:\n\nThis world is equipped with a custom Save Manager (FSM)!\nPlease ensure that you agree to it's Terms of use.\nYou can read those terms here:\n\nhttps://eula.floofworks.net/FSM",
+        "de": "EULA:\n\nDiese welt verfügt über einen Drittanbieter-Speicher-Manager (FSM)!\nBitte Lese und stimme den Benutzungseinschränkungen zu!\nDiese sind hier zugänglish:\n\nhttps://eula.floofworks.net/FSM",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_intro_button_understand": {
         "en": "Understood!",
         "de": "Verstehe!",
