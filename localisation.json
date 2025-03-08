@@ -1,4 +1,15 @@
 {
+    "ui_intro_button_understand": {
+        "en": "Understood!",
+        "de": "Verstehe!",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_intro_info_content_warning": {
         "en": "Warning!\n\nThis world may cause motion sickness! Please only proceed if you feel comfortable with mild to severe nausea!",
         "de": "Warnung!\n\nDie Inhalte dieser Welt könnten Schwindel auslösen. Bitte achte auf deine gesundheit bei dem Spielen dieser Welt!",
