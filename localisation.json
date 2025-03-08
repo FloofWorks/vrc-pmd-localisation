@@ -1,4 +1,15 @@
 {
+    "ui_main_menu_title_dev": {
+        "en": "Epic Menu Title",
+        "de": "Epischer Menü Titel",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_intro_button_i_agree": {
         "en": "I Agree!",
         "de": "Ich Stimme zu!",
