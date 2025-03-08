@@ -1,4 +1,15 @@
 {
+    "ui_intro_button_close": {
+        "en": "Close",
+        "de": "Schließen",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_main_menu_title_dev": {
         "en": "Epic Menu Title",
         "de": "Epischer Menü Titel",
