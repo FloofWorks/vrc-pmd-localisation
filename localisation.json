@@ -1,4 +1,59 @@
 {
+    "ui_info_money": {
+        "en": "Money",
+        "de": "Geld",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_info_play_time": {
+        "en": "Play Time",
+        "de": "Spielzeit",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_info_rank": {
+        "en": "Rank",
+        "de": "Rang",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_info_level": {
+        "en": "Level",
+        "de": "Level",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_info_team_name": {
+        "en": "Team Name",
+        "de": "Team Name",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_intro_button_close": {
         "en": "Close",
         "de": "Schließen",
