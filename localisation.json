@@ -1,4 +1,15 @@
 {
+    "ui_info_play": {
+        "en": "Play",
+        "de": "Spielen",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_info_credits": {
         "en": "Credits",
         "de": "Mitwirkende",
