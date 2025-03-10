@@ -2,7 +2,7 @@
     "ui_info_settings_languages": {
         "en": "Language",
         "de": "Sprachen",
-        "es": "",
+        "es": "Idioma",
         "fr": "",
         "it": "",
         "ja": "",
@@ -13,7 +13,7 @@
     "ui_info_settings_visual": {
         "en": "Visual",
         "de": "Aussehen",
-        "es": "",
+        "es": "Visualización",
         "fr": "",
         "it": "",
         "ja": "",
@@ -24,7 +24,7 @@
     "ui_info_settings_audio": {
         "en": "Audio",
         "de": "Töne",
-        "es": "",
+        "es": "Audio",
         "fr": "",
         "it": "",
         "ja": "",
@@ -35,7 +35,7 @@
     "ui_info_change_save": {
         "en": "Change Save",
         "de": "Spielstand Wächseln",
-        "es": "",
+        "es": "Elegir otro Archivo",
         "fr": "",
         "it": "",
         "ja": "",
@@ -46,7 +46,7 @@
     "ui_info_play": {
         "en": "Play",
         "de": "Spielen",
-        "es": "",
+        "es": "Jugar",
         "fr": "",
         "it": "",
         "ja": "",
@@ -57,7 +57,7 @@
     "ui_info_credits": {
         "en": "Credits",
         "de": "Mitwirkende",
-        "es": "",
+        "es": "Créditos",
         "fr": "",
         "it": "",
         "ja": "",
@@ -68,7 +68,7 @@
     "ui_info_settings": {
         "en": "Settings",
         "de": "Einstellungen",
-        "es": "",
+        "es": "Ajustes",
         "fr": "",
         "it": "",
         "ja": "",
@@ -79,7 +79,7 @@
     "ui_info_money": {
         "en": "Money",
         "de": "Geld",
-        "es": "",
+        "es": "Dinero",
         "fr": "",
         "it": "",
         "ja": "",
@@ -90,7 +90,7 @@
     "ui_info_play_time": {
         "en": "Play Time",
         "de": "Spielzeit",
-        "es": "",
+        "es": "Tiempo de Juego",
         "fr": "",
         "it": "",
         "ja": "",
@@ -101,7 +101,7 @@
     "ui_info_rank": {
         "en": "Rank",
         "de": "Rang",
-        "es": "",
+        "es": "Rango",
         "fr": "",
         "it": "",
         "ja": "",
@@ -112,7 +112,7 @@
     "ui_info_level": {
         "en": "Level",
         "de": "Level",
-        "es": "",
+        "es": "Nivel",
         "fr": "",
         "it": "",
         "ja": "",
@@ -123,7 +123,7 @@
     "ui_info_team_name": {
         "en": "Team Name",
         "de": "Team Name",
-        "es": "",
+        "es": "Nombre de Equipo",
         "fr": "",
         "it": "",
         "ja": "",
@@ -134,7 +134,7 @@
     "ui_intro_button_close": {
         "en": "Close",
         "de": "Schließen",
-        "es": "",
+        "es": "Cerrar",
         "fr": "",
         "it": "",
         "ja": "",
@@ -145,7 +145,7 @@
     "ui_main_menu_title_dev": {
         "en": "Epic Menu Title",
         "de": "Epischer Menü Titel",
-        "es": "",
+        "es": "Menú del Título Épico",
         "fr": "",
         "it": "",
         "ja": "",
@@ -156,7 +156,7 @@
     "ui_intro_button_i_agree": {
         "en": "I Agree!",
         "de": "Ich Stimme zu!",
-        "es": "",
+        "es": "¡Acepto!",
         "fr": "",
         "it": "",
         "ja": "",
@@ -167,7 +167,7 @@
     "ui_intro_info_eula": {
         "en": "EULA:\n\nThis world is equipped with a custom Save Manager (FSM)!\nPlease ensure that you agree to it's Terms of use.\nYou can read those terms here:\n\nhttps://eula.floofworks.net/FSM",
         "de": "EULA:\n\nDiese welt verfügt über einen Drittanbieter-Speicher-Manager (FSM)!\nBitte Lese und stimme den Benutzungseinschränkungen zu!\nDiese sind hier zugänglich:\n\nhttps://eula.floofworks.net/FSM",
-        "es": "",
+        "es": "EULA:\n\nEste mundo contiene su propio sistema de guardado (FSM)!\nPor favor, asegúrate de que estás de acuerdo con sus Términos de Uso.\nPuedes leerlos aquí:\n\nhttps://eula.floofworks.net/FSM",
         "fr": "",
         "it": "",
         "ja": "",
@@ -178,7 +178,7 @@
     "ui_intro_button_understand": {
         "en": "Understood!",
         "de": "Verstehe!",
-        "es": "",
+        "es": "¡Entendido!",
         "fr": "",
         "it": "",
         "ja": "",
@@ -189,7 +189,7 @@
     "ui_intro_info_content_warning": {
         "en": "Warning!\n\nThis world may cause motion sickness! Please only proceed if you feel comfortable with mild to severe nausea!",
         "de": "Warnung!\n\nDie Inhalte dieser Welt könnten Schwindel auslösen. Bitte achte auf deine gesundheit bei dem Spielen dieser Welt!",
-        "es": "",
+        "es": "¡Aviso!\n\n¡Este mundo puede causar mareo! Por favor, continúa solo si no eres propenso a sufrir mareos o náuseas.",
         "fr": "",
         "it": "",
         "ja": "",
