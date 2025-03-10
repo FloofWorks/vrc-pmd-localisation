@@ -200,7 +200,7 @@
     "ui_info_done": {
         "en": "Done!",
         "de": "Fertig!",
-        "es": "",
+        "es": "¡Listo!",
         "fr": "",
         "it": "",
         "ja": "",
@@ -211,7 +211,7 @@
     "ui_pipeline_info_importing_saves": {
         "en": "Reading Adventure Logs...",
         "de": "Abenteuer werden gelesen...",
-        "es": "",
+        "es": "Leyendo Diarios de Aventura...",
         "fr": "",
         "it": "",
         "ja": "",
@@ -222,7 +222,7 @@
     "ui_pipeline_info_getting_saves": {
         "en": "Gathering Adventure Logs...",
         "de": "Abenteuer werden gesammelt...",
-        "es": "",
+        "es": "Reuniendo Diarios de Aventura...",
         "fr": "",
         "it": "",
         "ja": "",
@@ -233,7 +233,7 @@
     "ui_pipeline_info_loading_items": {
         "en": "Stealing items from Kecleon...",
         "de": "Gegenstände werden von Kecleon geklaut...",
-        "es": "",
+        "es": "Robando objetos a Kecleon...",
         "fr": "",
         "it": "",
         "ja": "",
