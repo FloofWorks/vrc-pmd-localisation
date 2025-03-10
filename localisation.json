@@ -1,4 +1,15 @@
 {
+    "ui_info_apply": {
+        "en": "Apply",
+        "de": "Speichern",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_info_settings_languages": {
         "en": "Language",
         "de": "Sprachen",
