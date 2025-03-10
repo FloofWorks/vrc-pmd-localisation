@@ -1,4 +1,37 @@
 {
+    "ui_info_settings_voices": {
+        "en": "Voices",
+        "de": "Stimmen",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_info_settings_music": {
+        "en": "Music",
+        "de": "Musik",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_info_settings_sound_effects": {
+        "en": "Sound Effects",
+        "de": "Geräuche",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_info_apply": {
         "en": "Apply",
         "de": "Speichern",
