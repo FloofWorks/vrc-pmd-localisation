@@ -1,4 +1,48 @@
 {
+    "ui_info_settings_languages": {
+        "en": "Language",
+        "de": "Sprachen",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_info_settings_visual": {
+        "en": "Visual",
+        "de": "Aussehen",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_info_settings_audio": {
+        "en": "Audio",
+        "de": "Töne",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "ui_info_change_save": {
+        "en": "Change Save",
+        "de": "Spielstand Wächseln",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_info_play": {
         "en": "Play",
         "de": "Spielen",
