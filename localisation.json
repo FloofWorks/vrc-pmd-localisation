@@ -1,4 +1,15 @@
 {
+    "ui_info_settings_visual_gamma": {
+        "en": "Gamma",
+        "de": "Helligkeit",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_info_settings_placeholder": {
         "en": "Placeholder",
         "de": "Platz Halter",
