@@ -2,7 +2,7 @@
     "ui_info_settings_placeholder": {
         "en": "Placeholder",
         "de": "Platzhalter",
-        "es": "",
+        "es": "Placeholder",
         "fr": "",
         "it": "",
         "ja": "",
@@ -13,7 +13,7 @@
     "ui_info_settings_voices": {
         "en": "Voices",
         "de": "Stimmen",
-        "es": "",
+        "es": "Voces",
         "fr": "",
         "it": "",
         "ja": "",
@@ -24,7 +24,7 @@
     "ui_info_settings_music": {
         "en": "Music",
         "de": "Musik",
-        "es": "",
+        "es": "Música",
         "fr": "",
         "it": "",
         "ja": "",
@@ -35,7 +35,7 @@
     "ui_info_settings_sound_effects": {
         "en": "Sound Effects",
         "de": "Geräuche",
-        "es": "",
+        "es": "Sonidos",
         "fr": "",
         "it": "",
         "ja": "",
@@ -46,7 +46,7 @@
     "ui_info_apply": {
         "en": "Apply",
         "de": "Speichern",
-        "es": "",
+        "es": "Aplicar",
         "fr": "",
         "it": "",
         "ja": "",
