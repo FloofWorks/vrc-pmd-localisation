@@ -318,6 +318,28 @@
         "ch": "苹果",
         "ru": "Яблоко"
     },
+    "name_item_apple_big": {
+        "en": "Big Apple",
+        "de": "Großer Apfel",
+        "es": "Manzana",
+        "fr": "Pomme",
+        "it": "Mela",
+        "ja": "りんご",
+        "ko": "사과",
+        "ch": "苹果",
+        "ru": "Яблоко"
+    },
+    "name_item_apple_perfect": {
+        "en": "Perfect Apple",
+        "de": "Perfekter Apfel",
+        "es": "Manzana",
+        "fr": "Pomme",
+        "it": "Mela",
+        "ja": "りんご",
+        "ko": "사과",
+        "ch": "苹果",
+        "ru": "Яблоко"
+    },
     "name_item_banana": {
         "en": "Banana",
         "de": "Banane",
