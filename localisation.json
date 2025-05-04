@@ -307,6 +307,17 @@
         "ch": "",
         "ru": ""
     },
+    "ui_info_finalizing": {
+        "en": "Loading Resources...",
+        "de": "Resourcen werden geladen...",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_info_done": {
         "en": "Done!",
         "de": "Fertig!",
