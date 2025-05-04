@@ -1,4 +1,15 @@
 {
+    "ui_loading_menu_error_rejoin": {
+        "en": "An error occured while loading game resources.\nPlease rejoin the world!\nIf this error persists, contact @furofloof on Discord!",
+        "de": "Ein Fehler ist aufgetreten.\nBitte lade die welt neu!\nFalls der Fehler weiterhin besteht, bitte kontaktiere @furofloof auf Discord!",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_info_save_game": {
         "en": "Save Game...",
         "de": "Spiel Speichern...",
