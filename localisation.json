@@ -1,4 +1,37 @@
 {
+    "battle_attack_name_hydro_blast": {
+        "en": "Hydro Blast",
+        "de": "Hydro-Pumpe",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "battle_attack_name_tackle": {
+        "en": "Tackle",
+        "de": "Tackle",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "battle_attack_name_aura_sphere": {
+        "en": "Aura Sphere",
+        "de": "Aura Sphäre",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "ui_loading_menu_error_rejoin": {
         "en": "An error occured while loading game resources.\nPlease rejoin the world!\nIf this error persists, contact @furofloof on Discord!",
         "de": "Ein Fehler ist aufgetreten.\nBitte lade die welt neu!\nFalls der Fehler weiterhin besteht, bitte kontaktiere @furofloof auf Discord!",
