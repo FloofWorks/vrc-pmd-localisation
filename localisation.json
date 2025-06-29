@@ -1,4 +1,147 @@
 {
+    "player_gui_rank_name_12": {
+        "en": "Guildmaster",
+        "de": "Teamleiter",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_11": {
+        "en": "Master+++",
+        "de": "Meister+++",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_10": {
+        "en": "Master++",
+        "de": "Meister++",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_9": {
+        "en": "Master+",
+        "de": "Meister+",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_8": {
+        "en": "Master",
+        "de": "Meister",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_7": {
+        "en": "Hyper",
+        "de": "Hyper",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_6": {
+        "en": "Ultra",
+        "de": "Ultra",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_5": {
+        "en": "Super",
+        "de": "Super",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_4": {
+        "en": "Diamond",
+        "de": "Diamant",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_3": {
+        "en": "Zen",
+        "de": "Zen",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_2": {
+        "en": "Baile",
+        "de": "Baile",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_1": {
+        "en": "Suave",
+        "de": "Suave",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
+    "player_gui_rank_name_0": {
+        "en": "Normal",
+        "de": "Normal",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "battle_attack_name_hydro_blast": {
         "en": "Hydro Blast",
         "de": "Hydro-Pumpe",
