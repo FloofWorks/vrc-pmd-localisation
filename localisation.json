@@ -17,7 +17,7 @@
         "fr": "",
         "it": "",
         "ja": "",
-        "ko": "",
+        "ko": "", 
         "ch": "",
         "ru": ""
     },
@@ -562,7 +562,7 @@
     },
     "name_item_money_stash": {
         "en": "Money Stash",
-        "de": "Geldbeutel",
+        "de": "Geldmünze",
         "es": "",
         "fr": "",
         "it": "",
