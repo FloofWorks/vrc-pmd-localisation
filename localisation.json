@@ -1,4 +1,15 @@
 {
+    "world_info_mission_test_name_1": {
+        "en": "Test Mission 1",
+        "de": "Test Mission 1",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "world_info_dungeon_test_name": {
         "en": "Test Dungeon",
         "de": "Test Dungeon",
