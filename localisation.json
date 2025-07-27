@@ -1,4 +1,15 @@
 {
+    "world_info_dungeon_test_name": {
+        "en": "Test Dungeon",
+        "de": "Test Dungeon",
+        "es": "Test Dungeon",
+        "fr": "Test Dungeon",
+        "it": "Test Dungeon",
+        "ja": "Test Dungeon",
+        "ko": "",
+        "ch": "",
+        "ru": ""
+    },
     "player_gui_rank_name_12": {
         "en": "Guildmaster",
         "de": "Teamleiter",
